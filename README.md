@@ -9,7 +9,7 @@ Navigate a realistic solar system complete with a starry skybox, large, spaced-o
 ## Educational Planetary Information:
 Hover over any planet to display its name, and click on it to open an info panel with detailed, structured educational content. Each planet's information is divided into consistent sections such as:
 
-## Overview: A general introduction.
+## Overview: 
 Surface & Atmosphere: Key details about temperature, surface features, and atmospheric conditions.
 Orbit & Rotation: Information about orbital periods, unique spin properties, and resonance phenomena.
 Dimensions & Other Facts: Important metrics and interesting scientific insights.
