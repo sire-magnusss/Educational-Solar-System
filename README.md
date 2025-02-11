@@ -1,4 +1,5 @@
-Educational 3D Solar System
+##Educational 3D Solar System##
+
 Educational 3D Solar System is an interactive, visually immersive simulation built with Three.js. This project was born out of my exploration of Three.js and a desire to create an educational tool for children to spark their curiosity about our Solar System.
 
 Features
