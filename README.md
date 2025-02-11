@@ -36,15 +36,16 @@ Open Your Browser: Navigate to http://localhost:8000 to view the project.
 Just use IntelliJ IDE then run index.html bc intelliJ has it own local server for running such.
 
 ## Technologies Used
-Three.js: For 3D rendering and scene management.
-JavaScript (ES Modules): For modular, interactive code.
-HTML5 & CSS3: For structure and aesthetic styling.
-Git & GitHub: For version control and hosting.
-Project Background
+### Three.js: For 3D rendering and scene management.
+### JavaScript (ES Modules): For modular, interactive code.
+### HTML5 & CSS3: For structure and aesthetic styling.
+### Git & GitHub: For version control and hosting.
+
+## Project Background
 While learning Three.js, I found myself fascinated by space and wanted to build an educational project that made learning about our Solar System both fun and immersive. This project is designed to be an interactive tool for students and curious minds alike, blending art, science, and technology in one engaging simulation.
 
 
 ## Acknowledgements
-Three.js Documentation
-Three.js Examples
-NASA for inspiring space exploration and educational content.
+### Three.js Documentation
+### Three.js Examples
+### NASA for inspiring space exploration and educational content.
